@@ -1,5 +1,5 @@
 "use strict";
-const version = "2.0";
+const version = "2.1";
 const spawn = require('child_process').spawn;
 const exec 		= require("child_process").exec;
 const execSync 		= require("child_process").execSync;
